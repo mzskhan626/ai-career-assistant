@@ -109,4 +109,4 @@ MIT © [Mohammed Khan]
 ## 📬 Contact
 
 📧 Email: mzskhan626@gmail.com
-🔗 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohammedzkhan/))
+🔗 LinkedIn: [[linkedin.com/in/your-profile]](https://www.linkedin.com/in/mohammedzkhan/)
